@@ -9,6 +9,6 @@ rl.question("Hi!\nWrite something:\n", (input) => {
     rl.close();
   }
   else {
-    console.log("You did not type Hello World. Try again!\n");
+    console.log("You did not type the Hello World. Try again!\n");
   }
 });
